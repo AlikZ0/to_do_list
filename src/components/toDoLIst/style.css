@@ -1,0 +1,65 @@
+.G-flex {
+    display: flex;
+}
+.G-j{
+    justify-content:center;
+    align-items: center;
+
+    
+}
+h3{
+    cursor: pointer;
+}
+
+.G-img{
+    cursor: pointer;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 30px;
+    height: 30px;
+   
+}
+.P-marginTop {
+    margin-top: 111px;
+}
+
+input {
+    cursor: grabbing;
+    width: 152px;
+    margin: 11px;
+    border: 1px solid blue;
+    border-radius: 25px;
+}
+
+.G-button{
+    cursor: pointer;
+    font-family: unset;
+    font-size: 15px;
+    border: 1px solid blue;
+    border-radius: 25px;
+    background: darkcyan;
+
+}
+
+.P-date{
+    margin: 25px auto;
+    width: 250px;
+    background-color: darkcyan;
+}
+.G-Title{
+    position: relative;
+    margin:  11px auto;
+    width: 450px;
+    height: 400px;
+    background-color: aquamarine;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.P-absolute{
+    position: absolute;
+    top: 14px;
+    left: 11px;
+}
+.P-Title-text{
+    font-size: 22px;
+    margin: 11px;
+}
